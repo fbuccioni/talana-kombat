@@ -1,0 +1,2 @@
+class FightEngine(object):
+    pass

@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+uvloop
+websockets
+
+httptools
+orjson
+pytz
+python-dateutil
+pydantic[email]
+pydantic[dotenv]
+pytest
+httpx
